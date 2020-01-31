@@ -31,7 +31,7 @@ Edit this document to include your answers after each question. Make sure to lea
 1. Describe the biggest difference between `.forEach` & `.map`.
 
 2. What is the difference between a function and a method?
-
+    A method is a function that is inside of an object.
 3. What is closure?
 
 4. Describe the four rules of the 'this' keyword.
