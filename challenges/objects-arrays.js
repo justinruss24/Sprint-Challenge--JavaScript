@@ -100,7 +100,7 @@ const unisWithUni = [];
 
 for (let i = 0; i < graduates.length; i++) {
   if (graduates[i].university.includes('Uni')) {
-    unisWithUni.push(graduates[i].university)
+    unisWithUni.push({University: graduates[i].university})
   }
 }
 
